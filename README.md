@@ -23,4 +23,4 @@ Figma / ProtoPie / MERN / MEAN / DevOps / Android (Kotlin/Java) / iOS / React Na
 ![Join Us Today ](https://github.com/siliconMutapa/siliconMutapa/blob/main/JoinUs.png)
 
 
-[<img src='https://github.com/siliconMutapa/siliconMutapa/blob/main/twitter-svgrepo-com.svg' alt='twitter' height='40' style="padding-right:30px">](https://twitter.com/siliconMutapa) [<img src='https://github.com/siliconMutapa/siliconMutapa/blob/main/dribbble-svgrepo-com.svg' alt='dribbble' height='40'>](https://dribbble.com/siliconMutapa)
+<div style="margin-right: 30px">[<img src='https://github.com/siliconMutapa/siliconMutapa/blob/main/twitter-svgrepo-com.svg' alt='twitter' height='40' style="padding-right:30px">](https://twitter.com/siliconMutapa)</div> [<img src='https://github.com/siliconMutapa/siliconMutapa/blob/main/dribbble-svgrepo-com.svg' alt='dribbble' height='40'>](https://dribbble.com/siliconMutapa)
