@@ -13,8 +13,8 @@ We are a Zimbabwean tech community whose story is based on the features seen on 
 Figma / ProtoPie / MERN / MEAN / DevOps / Android (Kotlin/Java) / React Native / Flutter / Python / IoT
 
 
-- 🔭 I’m currently working on this page 
-- 📫 How to reach me: siliconMutapa@gmail.com 
+- 🔭 We are currently working on this page 
+- 📫 How to reach us: siliconMutapa@gmail.com 
 - ⚡ Fun fact: Cheetahs thrive whilst working independently or as part of a group. They are task-focused and always pay close attention to detail. They are adventurous and love trying new experiences. Cheetahs often attempt to find their own solution to a problem before seeking assistance. 
 
 
