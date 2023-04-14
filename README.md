@@ -10,7 +10,7 @@ We are a Zimbabwean tech community whose story is based on the features seen on 
 
 ### Skills && Content
 
-Figma / ProtoPie / MERN / MEAN / DevOps / Android (Kotlin/Java) / React Native / Flutter / Python / IoT
+Figma / ProtoPie / MERN / MEAN / DevOps / Android (Kotlin/Java) / iOS / React Native / Flutter / Python / IoT
 
 
 - 🔭 We are currently working on this page 
