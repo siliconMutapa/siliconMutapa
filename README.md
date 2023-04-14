@@ -18,4 +18,4 @@ Figma / ProtoPie / MERN / MEAN / DevOps / Android (Kotlin/Java) / React Native /
 - ⚡ Fun fact: Cheetahs thrive whilst working independently or as part of a group. They are task-focused and always pay close attention to detail. They are adventurous and love trying new experiences. Cheetahs often attempt to find their own solution to a problem before seeking assistance. 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/siliconMutapa)  
+[<img src='https://github.com/siliconMutapa/siliconMutapa/blob/main/twitter-svgrepo-com.svg' alt='twitter' height='40'>](https://twitter.com/siliconMutapa)  
