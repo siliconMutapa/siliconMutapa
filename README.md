@@ -8,7 +8,7 @@ We are a Zimbabwean tech community whose story is based on the features seen on 
 #siliconMutapa #fromVingo #Cheetahs 🐆🇿🇼🦾
 
 
-### Skills && Experience
+### Skills && Content
 
 Figma / ProtoPie / MERN / MEAN / DevOps / Android (Kotlin/Java) / React Native / Flutter / Python
 
