@@ -8,7 +8,7 @@ We are a Zimbabwean tech community whose story is based on the features seen on 
 
 ### Skills && Experience
 
-Skills: Figma / ProtoPie / MERN / MEAN / DevOps / Android (Kotlin/Java) / React Native / Flutter / Python
+Figma / ProtoPie / MERN / MEAN / DevOps / Android (Kotlin/Java) / React Native / Flutter / Python
 
 - 🔭 I’m currently working on this page 
 - 📫 How to reach me: siliconMutapa@gmail.com 
