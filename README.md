@@ -3,7 +3,7 @@
 ![UI/UX Design and Software Development ](https://github.com/siliconMutapa/siliconMutapa/blob/main/GitHubBanner.png)
 
 
-We are a Zimbabwean tech community whose story is based on the features seen on the great enclosure of [<span>Great Zimbabwe</span>](https://education.nationalgeographic.org/resource/great-zimbabwe/). We continuously join hands like Chevrons, and contribute Design && Code Blocks like the walls seen at Great Zimbabwe. We refer to our community members as Cheetahs, become a Cheetah today, and join our growing Coalition. 
+We are a [<span>Zimbabwean</span>](https://en.wikipedia.org/wiki/Zimbabwe) tech community whose story is based on the features seen on the great enclosure of [<span>Great Zimbabwe</span>](https://education.nationalgeographic.org/resource/great-zimbabwe/). We continuously join hands like Chevrons, and contribute Design && Code Blocks like the walls seen at Great Zimbabwe. We refer to our community members as Cheetahs, become a [<span>Cheetah</span>](https://kids.nationalgeographic.com/animals/mammals/facts/cheetah) today, and join our growing [<span>Coalition</span>](https://www.gviusa.com/blog/fun-facts-about-cheetahs/). 
 
 #siliconMutapa #fromVingo #Cheetahs 🐆🇿🇼🦾
 
