@@ -20,5 +20,4 @@ Figma / ProtoPie / MERN / MEAN / DevOps / Android (Kotlin/Java) / iOS / React Na
 
 [<img src='https://github.com/siliconMutapa/siliconMutapa/blob/main/twitter-svgrepo-com.svg' alt='twitter' height='40' style="padding-right:30px">](https://twitter.com/siliconMutapa) &nbsp; &nbsp; &nbsp;  [<img src='https://github.com/siliconMutapa/siliconMutapa/blob/main/dribbble-svgrepo-com.svg' alt='dribbble' height='40'>](https://dribbble.com/siliconMutapa)
 
-&nbsp;
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=siliconMutapa)](https://github.com/siliconMutapa/github-readme-stats)
