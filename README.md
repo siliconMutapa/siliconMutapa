@@ -21,4 +21,4 @@ Figma / ProtoPie / MERN / MEAN / DevOps / Android (Kotlin/Java) / iOS / React Na
 [<img src='https://github.com/siliconMutapa/siliconMutapa/blob/main/twitter-svgrepo-com.svg' alt='twitter' height='40' style="padding-right:30px">](https://twitter.com/siliconMutapa) &nbsp; &nbsp; &nbsp;  [<img src='https://github.com/siliconMutapa/siliconMutapa/blob/main/dribbble-svgrepo-com.svg' alt='dribbble' height='40'>](https://dribbble.com/siliconMutapa)
 
 ### Spotify Playing 🎧
-[![Spotify](https://spotify-now-playing-delta-lac.vercel.app/api/spotify)](https://open.spotify.com/user/31bh7frg45vu22kmdwqdvw3hgyxa)
+[![Spotify](https://spotify-now-playing-delta-lac.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31bh7frg45vu22kmdwqdvw3hgyxa)
