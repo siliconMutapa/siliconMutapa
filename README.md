@@ -12,15 +12,14 @@ We are mortarless yet stronger together! 🐆🇿🇼🦾
 
 ### Skills && Content
 
-Figma / ProtoPie / MERN / MEAN / DevOps / Android (Kotlin/Java) / iOS / React Native / Flutter / Python / IoT
-
-&nbsp; 
-&nbsp; 
+Figma / ProtoPie / MERN / MEAN / DevOps / Android (Kotlin/Java) / iOS / React Native / Flutter / Python / IoT 
 
 - 🔭 We are currently working on this page 
 - 📫 How to reach us: siliconMutapa@gmail.com 
 - ⚡ Fun fact: Cheetahs thrive whilst working independently or as part of a group. They are task-focused and always pay close attention to detail. They are adventurous and love trying new experiences. Cheetahs often attempt to find their own solution to a problem before seeking assistance. 
 
+&nbsp; 
+&nbsp;
 
 ![Join Us Today ](https://github.com/siliconMutapa/siliconMutapa/blob/main/JoinUs.png)
 
