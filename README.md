@@ -14,6 +14,8 @@ We are mortarless yet stronger together! 🐆🇿🇼🦾
 
 Figma / ProtoPie / MERN / MEAN / DevOps / Android (Kotlin/Java) / iOS / React Native / Flutter / Python / IoT
 
+&nbsp; 
+&nbsp; 
 
 - 🔭 We are currently working on this page 
 - 📫 How to reach us: siliconMutapa@gmail.com 
@@ -22,5 +24,7 @@ Figma / ProtoPie / MERN / MEAN / DevOps / Android (Kotlin/Java) / iOS / React Na
 
 ![Join Us Today ](https://github.com/siliconMutapa/siliconMutapa/blob/main/JoinUs.png)
 
+&nbsp; 
+&nbsp; 
 
 [<img src='https://github.com/siliconMutapa/siliconMutapa/blob/main/twitter-svgrepo-com.svg' alt='twitter' height='40' style="padding-right:30px">](https://twitter.com/siliconMutapa) &nbsp; &nbsp; &nbsp;  [<img src='https://github.com/siliconMutapa/siliconMutapa/blob/main/dribbble-svgrepo-com.svg' alt='dribbble' height='40'>](https://dribbble.com/siliconMutapa)
