@@ -26,4 +26,4 @@ Figma / ProtoPie / MERN / MEAN / DevOps / Android (Kotlin/Java) / iOS / React Na
 
 ### Upcoming Projects (Sneak Peek) 🧑‍💻🤖👷
 
-[<img src='https://github.com/siliconMutapa/siliconMutapa/blob/main/EargroundApp.png' alt='Earground-Mobile-App' height='420' title='Earground-Mobile-App'>](https://twitter.com/siliconMutapa/status/1647307138170081280?s=20) &nbsp; &nbsp; &nbsp; [<img src='https://github.com/siliconMutapa/siliconMutapa/blob/main/EargroundApp.png' alt='Mpesa-Mobile-App(clone)' height='420' title='Mpesa-Mobile-App(clone)'>](https://twitter.com/siliconMutapa/status/1647419555528966146?s=20)
+[<img src='https://github.com/siliconMutapa/siliconMutapa/blob/main/EargroundApp.png' alt='Earground-Mobile-App' height='420' title='Earground-Mobile-App'>](https://twitter.com/siliconMutapa/status/1647307138170081280?s=20) &nbsp; &nbsp; &nbsp; [<img src='https://github.com/siliconMutapa/siliconMutapa/blob/main/MpesaApp(Clone).png' alt='Mpesa-Mobile-App(clone)' height='420' title='Mpesa-Mobile-App(clone)'>](https://twitter.com/siliconMutapa/status/1647419555528966146?s=20)
