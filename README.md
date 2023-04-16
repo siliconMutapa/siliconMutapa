@@ -26,4 +26,4 @@ Figma / ProtoPie / MERN / MEAN / DevOps / Android (Kotlin/Java) / iOS / React Na
 
 ### Upcoming Project (Sneak-Peek)
 
-[<img src='https://github.com/siliconMutapa/siliconMutapa/blob/main/twitter-svgrepo-com.svg' alt='Earground-Events-Booking' height='40'>](https://twitter.com/siliconMutapa/status/1647307138170081280?s=20)
+[<img src='https://github.com/siliconMutapa/siliconMutapa/blob/main/EargroundApp.png' alt='Earground-Events-Booking' height='420'>](https://twitter.com/siliconMutapa/status/1647307138170081280?s=20)
