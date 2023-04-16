@@ -24,6 +24,6 @@ Figma / ProtoPie / MERN / MEAN / DevOps / Android (Kotlin/Java) / iOS / React Na
 
  [![Spotify](https://spotify-now-playing-delta-lac.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31bh7frg45vu22kmdwqdvw3hgyxa)
 
-### Upcoming Project (Sneak-Peek)
+### Upcoming Project (Sneak-Peek) 🧑‍💻🤖👷
 
 [<img src='https://github.com/siliconMutapa/siliconMutapa/blob/main/EargroundApp.png' alt='Earground-Mobile-App' height='420' title='Earground-Mobile-App'>](https://twitter.com/siliconMutapa/status/1647307138170081280?s=20)
