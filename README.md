@@ -34,7 +34,7 @@ Figma / ProtoPie / MERN / MEAN / DevOps / Android (Kotlin/Java) / iOS / React Na
     <td><a href="https://twitter.com/siliconMutapa/status/1647419555528966146?s=20" target="_blank"><img src='https://github.com/siliconMutapa/siliconMutapa/blob/main/MpesaApp(Clone).png' alt='Mpesa-Mobile-App(clone)' title='Mpesa-Mobile-App(clone)'></a></td>
   </tr>
  
- <tr rowspan='2'>
- <td><a href="https://twitter.com/siliconMutapa/status/1648994243757723648?s=20" target="_blank"><img src='https://github.com/siliconMutapa/siliconMutapa/blob/main/MJMLeatherwareApp.png' alt='MJM-Leatherware-Mobile-App' title='MJM-Leatherware-Mobile-App'></a></td>
+ <tr>
+ <td rowspan='2'><a href="https://twitter.com/siliconMutapa/status/1648994243757723648?s=20" target="_blank"><img src='https://github.com/siliconMutapa/siliconMutapa/blob/main/MJMLeatherwareApp.png' alt='MJM-Leatherware-Mobile-App' title='MJM-Leatherware-Mobile-App'></a></td>
  </tr> 
  </table>
